@@ -1,18 +1,10 @@
-<!--
-Credits and references used in this README:
-
-1) Layout ideas:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons:
-   https://github.com/tandpfun/skill-icons
-
-3) GitHub stats:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
 # 📚**Dadir Dev**
 **`Aspiring Frontend Developer | Future Full-Stack Engineer`**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+Developer.;Future+Full-Stack+Engineer.;Focus.+Learn.+Build.+Repeat.">
+</h1>
+
+---
 
 ## 🌱 About Me
 - Beginner → intermediate developer learning **Frontend Development** with a long-term plan to master **Full Stack**.
@@ -85,15 +77,23 @@ React, Node.js, TypeScript, APIs, and modern frontend frameworks.
 
 ![Dadir’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadir-Dev&show_icons=true&theme=tokyonight)
 
----
+---  
 
-## 🔗 Links
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **LinkedIn:** Add your link here  
+## 🔗 Connect With Me
 
-<a href="https://linkedin.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+<p align="center">
+  <a href="https://github.com/Dadir-Dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdikadir-mohammed-54717318b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Dadir_Dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+  </a>
+</p>
 
 ---
 
