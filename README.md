@@ -16,7 +16,7 @@
 
 ## 🛠 Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,jest)](https://skillicons.dev)
 
 **Learning Next:**  
 React, Node.js, TypeScript, APIs, and modern frontend frameworks.
