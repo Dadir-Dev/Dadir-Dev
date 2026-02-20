@@ -7,9 +7,9 @@
 ---
 
 ## 🌱 About Me
-- Beginner → intermediate developer learning **Frontend Development** with a long-term plan to master **Full Stack**.
+- Junior developer learning **Frontend Development** with a long-term plan to master **Full Stack**.
 - Passionate about clean UI, Tailwind CSS, JavaScript, and building real-world mini-projects.
-- Currently studying **Tailwind, React** and slowly moving toward **TypeScript, and backend fundamentals**.
+- Currently studying **React, NextJS** and slowly moving toward **TypeScript, and backend fundamentals**.
 - Love building things, improving daily, and documenting my journey through code.
 
 ---
@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,jest)](https://skillicons.dev)
 
 **Learning Next:**  
-React, Node.js, TypeScript, APIs, and modern frontend frameworks.
+Node.js, TypeScript, APIs, and modern frontend frameworks.
 
 ---
 
