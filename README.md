@@ -1,7 +1,7 @@
 # 📚**Dadir Dev**
-**`Aspiring Frontend Developer | Future Full-Stack Engineer`**
+**`Frontend Developer | Future Full-Stack Engineer`**
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+Developer.;Future+Full-Stack+Engineer.;Focus.+Learn.+Build.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer.;Future+Full-Stack+Engineer.;Focus.+Learn.+Build.+Repeat.">
 </h1>
 
 ---
