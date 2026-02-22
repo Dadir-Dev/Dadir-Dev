@@ -28,17 +28,17 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/Deep-Focus-Tracker/blob/main/screen%20shots/Screenshot%202025-11-13%20164115.png"
-           alt="Focus Timer"
+      <img src="https://github.com/Dadir-Dev/dynamic-invoice-generator/blob/main/src/assets/Invoice-Editor%20Screenshot%202026-02-18%20180154.png"
+           alt="Dynamic Invoice Generator"
            style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Deep Focus App</b><br/>
-      <sub>HTML, CSS, JS</sub><br/>
-      <sub>A personal productivity timer with start/pause/reset and daily stats.</sub>
+      <b>Dynamic Invoice Generator</b><br/>
+      <sub>ReactJS and TailwindCSS</sub><br/>
+      <sub>A modern, responsive invoice builder built with React + Vite + Tailwind CSS.</sub>
       <br/>
-      🔗 <a href="https://github.com/Dadir-Dev/Deep-Focus-Tracker">Repo Link</a>
+      🔗 <a href="https://github.com/Dadir-Dev/dynamic-invoice-generator">Repo Link</a>
       <br/>
-      <sub>Tags: DOM, JavaScript</sub>
+      <sub>Tags: Complex State Management, ReactJS</sub>
     </td>
 
   <td align="center" width="33%">
