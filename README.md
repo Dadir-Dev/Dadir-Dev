@@ -42,17 +42,17 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
     </td>
 
   <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/bento-grid-Frontend-Mentor-challenge/blob/main/design/Desktop-design.png"
-           alt="Bento Grid"
+      <img src="https://github.com/Dadir-Dev/jumlazon-project/blob/main/screenshots/home.png"
+           alt="jumlazon Shopping Cart"
            style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Bento Grid Layout</b><br/>
-      <sub>HTML, CSS</sub><br/>
-      <sub>A clean responsive Bento Grid inspired by Frontend Mentor.</sub>
+      <b>Jumlazon E-Commerce</b><br/>
+      <sub>HTML, CSS, JavaScript</sub><br/>
+      <sub>a full-featured e-commerce frontend clone that mimics the core shopping experience of Amazon</sub>
       <br/>
-      🔗 <a href="https://github.com/Dadir-Dev/bento-grid-Frontend-Mentor-challenge">Repo Link</a>
+      🔗 <a href="https://github.com/Dadir-Dev/jumlazon-project">Repo Link</a>
       <br/>
-      <sub>Tags: Responsive Design</sub>
+      <sub>Tags: Responsive Design, Unit and Integration Testing</sub>
     </td>
 
   <td align="center" width="33%">
