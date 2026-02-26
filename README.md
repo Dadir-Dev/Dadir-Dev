@@ -64,7 +64,7 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
       <sub>ReactJS and Tailwind CSS</sub><br/>
       <sub>A modern, frontend-first queue management application built with React + Vite and styled with Tailwind CSS</sub>
       <br/>
-       <a href="https://github.com/Dadir-Dev/queue-management">Repo Link</a>
+       🔗 <a href="https://github.com/Dadir-Dev/queue-management">Repo Link</a>
       <br/>
       <sub>Tags: State Management, Conditional Rendering, Dynamic Styling</sub>
     </td>
