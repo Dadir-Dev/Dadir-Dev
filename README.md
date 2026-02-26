@@ -56,17 +56,17 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
     </td>
 
   <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/random-quote-generator/blob/main/Screenshots/desktop-view.png"
-           alt="DOM Projects"
+      <img src="https://github.com/Dadir-Dev/queue-management/blob/main/src/assets/Screenshot%20Desktop%20Design%202026-02-12.png"
+           alt="QueueFlow Pro"
            style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Random Quote Generator</b><br/>
-      <sub>HTML, CSS, JavaScript</sub><br/>
-      <sub>Theme Switcher, copy quotes and multiple categories selector for mastering DOM skills.</sub>
+      <b>Queue Management System</b><br/>
+      <sub>ReactJS and Tailwind CSS</sub><br/>
+      <sub>A modern, frontend-first queue management application built with React + Vite and styled with Tailwind CSS</sub>
       <br/>
-       <a href="https://github.com/Dadir-Dev/random-quote-generator">Repo Link</a>
+       <a href="https://github.com/Dadir-Dev/queue-management">Repo Link</a>
       <br/>
-      <sub>Tags: JS, DOM</sub>
+      <sub>Tags: State Management, Conditional Rendering, Dynamic Styling</sub>
     </td>
   </tr>
 </table>
