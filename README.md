@@ -36,7 +36,7 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
       <sub>ReactJS and TailwindCSS</sub><br/>
       <sub>A modern, responsive invoice builder built with React + Vite + Tailwind CSS.</sub>
       <br/>
-      🔗 <a href="https://dynamic-invoice-generator.vercel.app/">Live Demo</a>
+      🔗 <a href="https://dynamic-invoice-generator.vercel.app/" target="_blank">Live Demo</a>
       <br/>
       <sub>Tags: Complex State Management, ReactJS</sub>
     </td>
@@ -50,7 +50,7 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
       <sub>HTML, CSS, JavaScript</sub><br/>
       <sub>a full-featured e-commerce frontend clone that mimics the core shopping experience of Amazon</sub>
       <br/>
-      🔗 <a href="https://jumlazon-project.vercel.app/">Live Demo</a>
+      🔗 <a href="https://jumlazon-project.vercel.app/" target="_blank">Live Demo</a>
       <br/>
       <sub>Tags: Responsive Design, Unit and Integration Testing</sub>
     </td>
@@ -64,7 +64,7 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
       <sub>ReactJS and Tailwind CSS</sub><br/>
       <sub>A modern, frontend-first queue management application built with React + Vite and styled with Tailwind CSS</sub>
       <br/>
-       🔗 <a href="https://queue-management-five.vercel.app/">Live Demo</a>
+       🔗 <a href="https://queue-management-five.vercel.app/" target="_blank">Live Demo</a>
       <br/>
       <sub>Tags: State Management, Conditional Rendering, Dynamic Styling</sub>
     </td>
