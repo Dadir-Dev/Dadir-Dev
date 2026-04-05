@@ -9,7 +9,7 @@
 ## 🌱 About Me
 - A **Frontend Developer** with a long-term plan to master **Full Stack**.
 - Passionate about scalable, reliable and maintainable Web Apps and building real-world projects.
-- Currently studying **React, NextJS** and slowly moving toward **TypeScript, and backend fundamentals**.
+- Currently studying **NextJS** and slowly moving toward **TypeScript, and backend fundamentals**.
 - Love building things, improving daily, and documenting my journey through code.
 
 ---
