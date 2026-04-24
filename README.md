@@ -56,9 +56,9 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
     </td>
 
   <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/queue-management/blob/main/src/assets/Screenshot%20Desktop%20Design%202026-02-12.png"
+      <img src="https://github.com/Dadir-Dev/queue-management/blob/main/src/assets/Desktop_View_2026_04_21.png"
            alt="QueueFlow Pro"
-           style="width:100%; height:200px; object-fit:cover;"/>
+           style="width:100%; height:150px; object-fit:cover;"/>
       <br/>
       <b>Queue Management System</b><br/>
       <sub>ReactJS and Tailwind CSS</sub><br/>
@@ -66,7 +66,7 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
       <br/>
        🔗 <a href="https://queue-management-five.vercel.app/" target="_blank">Live Demo</a>
       <br/>
-      <sub>Tags: State Management, Conditional Rendering, Dynamic Styling</sub>
+      <sub>Tags: State Management, Conditional Rendering, Dynamic Styling, Context API</sub>
     </td>
   </tr>
 </table>
