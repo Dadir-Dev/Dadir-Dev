@@ -9,7 +9,7 @@
 
 ## 🌱 About Me
 
-- **Full-Stack Developer** building production web apps end-to-end — React/Next.js on the front, Node + PostgreSQL behind.
+- **Full-Stack Developer** building production web apps end-to-end — React/Next.js with TypeScript on the front, Node + PostgreSQL behind.
 - I build tools I actually use: **GitDone** and **DevGnosis** started as things I needed, and I keep shipping features into them as my own first user.
 - I care about the unglamorous parts: ownership checks in the query, typed Server Actions, sensible caching, and tests before features.
 - I use AI to move faster on tests, docs and boilerplate — then review every line before it merges.
@@ -65,8 +65,7 @@
       <sub>Next.js 16 · React 19 · Prisma 7 · Neon · Clerk</sub><br/>
       <sub>A calm, dark project &amp; task workspace for solo developers. Zero-REST — every mutation is a typed Server Action with query-level ownership checks.</sub>
       <br/>
-      🔗 <a href="https://git-done-dadirdev.vercel.app/" target="_blank">Live Demo</a> ·
-      <a href="https://github.com/Dadir-Dev/git-done" target="_blank">Source</a>
+      🔗 <a href="https://git-done-dadirdev.vercel.app/" target="_blank">Live Demo</a>
       <br/>
       <sub>Server Actions · Multi-tenant security · Accessibility</sub>
     </td>
@@ -75,10 +74,10 @@
            alt="Oportuno job board" style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
       <b>Oportuno</b><br/>
-      <sub>Next.js 15 · Auth.js v5 · Prisma 6 · PostgreSQL</sub><br/>
+      <sub>Next.js 16 · Auth.js v5 · Prisma 7 · PostgreSQL</sub><br/>
       <sub>A two-sided job board: search, filter, sort and paginate roles, apply in one click, and track applicants from an employer dashboard.</sub>
       <br/>
-      🔗 <a href="https://github.com/Dadir-Dev/oportuno" target="_blank">Source</a>
+      🔗 <a href="https://" target="_blank">Live Demo</a>
       <br/>
       <sub>OAuth · Edge middleware · Cached reads</sub>
     </td>
@@ -90,19 +89,12 @@
       <sub>Next.js · TypeScript · Drizzle · Neon · Better Auth</sub><br/>
       <sub>A developer knowledge hub for the snippets, prompts, commands and files that vanish across tools. Schema-first, owner-scoped, with 49 Vitest tests covering queries and feature logic.</sub>
       <br/>
-      🔗 <a href="https://github.com/Dadir-Dev/devgnosis" target="_blank">Source</a>
+      🔗 <a href="https://" target="_blank">Live Demo</a>
       <br/>
       <sub>Drizzle ORM · Full-text search · Testing</sub>
     </td>
   </tr>
 </table>
-
-### More projects
-
-- **Issue Tracker** — full-stack issue tracking with Clerk auth, Prisma transactions, and an immutable audit log. `Next.js · Prisma · Clerk · Svix` · [Source](https://github.com/Dadir-Dev/issue-tracker)
-- **Dynamic Invoice Generator** — responsive invoice builder with complex local state. `React · Vite · Tailwind` · [Live](https://dynamic-invoice-generator.vercel.app/)
-- **Queue Management System** — frontend-first queue flow with Context API and dynamic styling. `React · Tailwind` · [Live](https://queue-management-five.vercel.app/)
-- **Jumlazon** — e-commerce frontend with unit and integration tests. `HTML · CSS · JavaScript` · [Live](https://jumlazon-project.vercel.app/)
 
 ---
 
