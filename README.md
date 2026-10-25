@@ -1,75 +1,108 @@
-# 📚**Dadir Dev**
-**`Frontend Developer | Future Full-Stack Engineer`**
+# 📚 **Dadir Dev**
+**`Full-Stack Developer — React · Next.js · Node · PostgreSQL`**
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer.;Future+Full-Stack+Engineer.;Focus.+Learn.+Build.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer.;Next.js+%2B+TypeScript.;Node+%2B+PostgreSQL.;Build.+Ship.+Iterate.+Repeat.">
 </h1>
 
 ---
 
 ## 🌱 About Me
-- A **Frontend Developer** with a long-term plan to master **Full Stack**.
-- Passionate about scalable, reliable and maintainable Web Apps and building real-world projects.
-- Currently studying **NextJS** and slowly moving toward **TypeScript, and backend fundamentals**.
-- Love building things, improving daily, and documenting my journey through code.
+
+- **Full-Stack Developer** building production web apps end-to-end — React/Next.js on the front, Node + PostgreSQL behind.
+- I build tools I actually use: **GitDone** and **DevGnosis** started as things I needed, and I keep shipping features into them as my own first user.
+- I care about the unglamorous parts: ownership checks in the query, typed Server Actions, sensible caching, and tests before features.
+- I use AI to move faster on tests, docs and boilerplate — then review every line before it merges.
+- **Currently building:** DevGnosis — a knowledge hub for developer snippets, prompts and commands.
+
+**Open to remote full-stack roles.**
 
 ---
 
 ## 🛠 Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,jest,typescript,nextjs,nodejs)](https://skillicons.dev)
+**Frontend**
 
-**Learning Next:**  
-Node.js, TypeScript, APIs, and modern frontend frameworks.
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+
+**Backend, data & auth**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black&style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black&style=flat-square)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white&style=flat-square)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white&style=flat-square)
+
+**Tooling & quality**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+
+**Currently deepening:** production observability (Sentry), system design, and CI/CD hardening.
 
 ---
 
-## 🚀 Projects – Mini Showcase
+## 🚀 Projects
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/dynamic-invoice-generator/blob/main/src/assets/Invoice-Editor%20Screenshot%202026-02-18%20180154.png"
-           alt="Dynamic Invoice Generator"
-           style="width:100%; height:200px; object-fit:cover;"/>
+      <img src="https://github.com/Dadir-Dev/git-done/raw/main/public/screenshots/GitDone%20-%20dashboard-page.png"
+           alt="GitDone dashboard" style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Dynamic Invoice Generator</b><br/>
-      <sub>ReactJS and TailwindCSS</sub><br/>
-      <sub>A modern, responsive invoice builder built with React + Vite + Tailwind CSS.</sub>
+      <b>GitDone</b><br/>
+      <sub>Next.js 16 · React 19 · Prisma 7 · Neon · Clerk</sub><br/>
+      <sub>A calm, dark project &amp; task workspace for solo developers. Zero-REST — every mutation is a typed Server Action with query-level ownership checks.</sub>
       <br/>
-      🔗 <a href="https://dynamic-invoice-generator.vercel.app/" target="_blank">Live Demo</a>
+      🔗 <a href="https://git-done-dadirdev.vercel.app/" target="_blank">Live Demo</a> ·
+      <a href="https://github.com/Dadir-Dev/git-done" target="_blank">Source</a>
       <br/>
-      <sub>Tags: Complex State Management, ReactJS</sub>
+      <sub>Server Actions · Multi-tenant security · Accessibility</sub>
     </td>
-
-  <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/jumlazon-project/blob/main/screenshots/home.png"
-           alt="jumlazon Shopping Cart"
-           style="width:100%; height:200px; object-fit:cover;"/>
+    <td align="center" width="33%">
+      <img src="https://github.com/Dadir-Dev/oportuno/raw/main/banner.png"
+           alt="Oportuno job board" style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Jumlazon E-Commerce</b><br/>
-      <sub>HTML, CSS, JavaScript</sub><br/>
-      <sub>a full-featured e-commerce frontend clone that mimics the core shopping experience of Amazon</sub>
+      <b>Oportuno</b><br/>
+      <sub>Next.js 15 · Auth.js v5 · Prisma 6 · PostgreSQL</sub><br/>
+      <sub>A two-sided job board: search, filter, sort and paginate roles, apply in one click, and track applicants from an employer dashboard.</sub>
       <br/>
-      🔗 <a href="https://jumlazon-project.vercel.app/" target="_blank">Live Demo</a>
+      🔗 <a href="https://github.com/Dadir-Dev/oportuno" target="_blank">Source</a>
       <br/>
-      <sub>Tags: Responsive Design, Unit and Integration Testing</sub>
+      <sub>OAuth · Edge middleware · Cached reads</sub>
     </td>
-
-  <td align="center" width="33%">
-      <img src="https://github.com/Dadir-Dev/queue-management/blob/main/src/assets/Desktop_View_2026_04_21.png"
-           alt="QueueFlow Pro"
-           style="width:100%; height:150px; object-fit:cover;"/>
+    <td align="center" width="33%">
+      <img src="https://github.com/Dadir-Dev/devgnosis/raw/main/context/screenshots/dashboard-ui-main.png"
+           alt="DevGnosis dashboard" style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Queue Management System</b><br/>
-      <sub>ReactJS and Tailwind CSS</sub><br/>
-      <sub>A modern, frontend-first queue management application built with React + Vite and styled with Tailwind CSS</sub>
+      <b>DevGnosis</b> <sub>(in progress)</sub><br/>
+      <sub>Next.js · TypeScript · Drizzle · Neon · Better Auth</sub><br/>
+      <sub>A developer knowledge hub for the snippets, prompts, commands and files that vanish across tools. Schema-first, owner-scoped, with 49 Vitest tests covering queries and feature logic.</sub>
       <br/>
-       🔗 <a href="https://queue-management-five.vercel.app/" target="_blank">Live Demo</a>
+      🔗 <a href="https://github.com/Dadir-Dev/devgnosis" target="_blank">Source</a>
       <br/>
-      <sub>Tags: State Management, Conditional Rendering, Dynamic Styling, Context API</sub>
+      <sub>Drizzle ORM · Full-text search · Testing</sub>
     </td>
   </tr>
 </table>
+
+### More projects
+
+- **Issue Tracker** — full-stack issue tracking with Clerk auth, Prisma transactions, and an immutable audit log. `Next.js · Prisma · Clerk · Svix` · [Source](https://github.com/Dadir-Dev/issue-tracker)
+- **Dynamic Invoice Generator** — responsive invoice builder with complex local state. `React · Vite · Tailwind` · [Live](https://dynamic-invoice-generator.vercel.app/)
+- **Queue Management System** — frontend-first queue flow with Context API and dynamic styling. `React · Tailwind` · [Live](https://queue-management-five.vercel.app/)
+- **Jumlazon** — e-commerce frontend with unit and integration tests. `HTML · CSS · JavaScript` · [Live](https://jumlazon-project.vercel.app/)
 
 ---
 
@@ -77,7 +110,7 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
 
 ![Dadir’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadir-Dev&show_icons=true&theme=tokyonight)
 
----  
+---
 
 ## 🔗 Connect With Me
 
@@ -97,5 +130,5 @@ Node.js, TypeScript, APIs, and modern frontend frameworks.
 
 ---
 
-<!-- Fun GIF -->
+<!-- Fun GIF — remove if you want a strictly professional finish -->
 ![gif](https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif)
