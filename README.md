@@ -1,5 +1,5 @@
 # 📚 **Dadir Dev**
-**`Full-Stack Developer — React · Next.js · Node · PostgreSQL`**
+**`Full-Stack Developer — TypeScript · Next.js · Node · PostgreSQL`**
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer.;Next.js+%2B+TypeScript.;Node+%2B+PostgreSQL.;Build.+Ship.+Iterate.+Repeat.">
